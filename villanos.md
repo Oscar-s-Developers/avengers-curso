@@ -2,3 +2,4 @@
 
 * Buggy
 * Arlong
+* Kuro
