@@ -3,3 +3,4 @@
 * Buggy
 * Arlong
 * Kuro
+* Doflamingo
